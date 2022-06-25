@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+# Welcome to the Simon game
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+its very easy to play we just need to press the highlighted/blinked button orderwise
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+javascript and jQuery are used to build this game
